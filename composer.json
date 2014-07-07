@@ -16,8 +16,8 @@
     "require-dev": {
         "phpunit/phpunit": "4.1.*"
     },
-    "config": {
-        "preferred-install": "dist"
+    "version": {
+
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
