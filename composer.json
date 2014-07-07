@@ -4,7 +4,6 @@
     "description":"preBuild MVC structure for Slim micro framework",
     "keywords":["framework", "microframework", "rest", "router", "mvc"],
     "homepage":"https://github.com/yanivgal/slim-mvc",
-    "version":"0.0.2",
     "license": "BSD",
     "authors":[
         {
