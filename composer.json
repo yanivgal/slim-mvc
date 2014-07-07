@@ -1,0 +1,15 @@
+{
+    "name":"yanivgal/slim-mvc",
+    "type":"framework",
+    "description":"preBuild MVC structure for Slim micro framework",
+    "keywords":["framework", "microframework", "rest", "router", "mvc"],
+    "homepage":"https://github.com/yanivgal/slim-mvc",
+    "authors":[
+        {
+            "name":"Yaniv Gal"
+        }
+    ],
+    "require":{
+        "slim/slim":"2.*"
+    }
+}
