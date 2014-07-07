@@ -11,9 +11,7 @@
     ],
     "require":{
         "slim/slim":"2.*",
-        "guzzlehttp/guzzle": "4.*"
-    },
-    "require-dev": {
+        "guzzlehttp/guzzle": "4.*",
         "phpunit/phpunit": "4.1.*"
     },
     "config": {
