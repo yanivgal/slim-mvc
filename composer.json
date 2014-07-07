@@ -4,9 +4,10 @@
     "description":"preBuild MVC structure for Slim micro framework",
     "keywords":["framework", "microframework", "rest", "router", "mvc"],
     "homepage":"https://github.com/yanivgal/slim-mvc",
+    "version": "1.0.0",
     "authors":[
         {
-            "name":"Yaniv Gal"
+            "name":"Yaniv Gal",
         }
     ],
     "require":{
@@ -15,9 +16,6 @@
     },
     "require-dev": {
         "phpunit/phpunit": "4.1.*"
-    },
-    "version": {
-
     },
     "minimum-stability": "dev"
 }
