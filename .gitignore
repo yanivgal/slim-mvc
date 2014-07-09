@@ -1,5 +1,5 @@
 .idea/
- ini/
- vendor/
- composer.lock
- composer.phar
+ini/
+vendor/
+composer.lock
+composer.phar
