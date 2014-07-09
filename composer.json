@@ -10,11 +10,19 @@
             "name":"Yaniv Gal"
         }
     ],
+
     "require":{
         "slim/slim":"2.*",
         "guzzlehttp/guzzle": "4.*"
     },
+
     "require-dev":{
         "phpunit/phpunit": "4.1.*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "slim-mvc\\": "src"
+        }
     }
 }
